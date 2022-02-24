@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susila-s
-- 🌱 I’m currently learning odoo, Git, Github, Gitlab, Jenkins, Docker
+- 🌱 I’m currently learning Odoo, Python, Git.
 
 <!---
 susila-s/susila-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
